@@ -1,0 +1,16 @@
+color={
+    "cl1":"Pink",
+    "cl2":"Black",
+    "cl3":"White",
+    "cl4":"Green",
+    "cl5":"Yellow",
+    "cl6":"Red",
+    }
+print(color["cl1"])
+#
+detail={
+    "Name":"Alfee",
+    "Age":"21",
+    "College":"Wcc"
+}
+print(detail["Age"])
