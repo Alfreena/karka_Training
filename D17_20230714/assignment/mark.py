@@ -1,0 +1,9 @@
+mark={"tamil":100,
+      "english":80,
+      "maths":75,
+      "science":80,
+      "social":70
+      }
+print(mark.items())
+print(mark.values())
+print(mark.keys())
