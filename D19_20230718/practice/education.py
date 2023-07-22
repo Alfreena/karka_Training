@@ -40,4 +40,3 @@ education_detail=[
 ]
 for item in education_detail:
     print(item['study'])
-    for item in 
